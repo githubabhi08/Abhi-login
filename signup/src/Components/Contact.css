@@ -1,0 +1,109 @@
+
+
+
+#con{
+    display: flex;
+    justify-content: center;
+    
+
+}
+#cont{
+color: white;
+background-color: red;
+padding: 7px 7px;
+position: relative;
+top: 4rem;
+}
+
+
+/* contact form part  */
+
+.contact .block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:82vh ;
+    
+}
+
+.block .frm{
+    background-color:rgb(254, 47, 81);
+    width: 27rem;
+    height: 32rem;
+    border-radius: 7px;
+}
+
+
+.block .frm #one{
+    position: relative;
+    left: 2rem;
+}
+
+.block .frm #three{
+    position: relative;
+    left: 1rem;
+}
+
+.block .frm #two{
+    position: relative;
+    left: 2.4rem;
+}
+
+
+.block .frm input{
+    width: 17rem;
+    height: 1.2rem;
+    position: relative;
+    top: 4rem;
+    left: .7rem;
+    margin-top: 2rem;
+}
+
+.block .frm select{
+    position: relative;
+    top: 2.5rem;
+    left: 8rem;
+    margin-top: 2rem;
+}
+
+.block .frm #lbl{
+    position: relative;
+    top: 5.8rem;
+    left: .7rem;
+}
+
+
+.block .frm #msg{
+    width: 17rem;
+    height: 3.2rem;
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.block .frm label{
+    position: relative;
+    top: 4rem;
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: 1.9rem;
+}
+
+.block .frm #sub{
+    position: relative;
+    top: 1rem;
+    width: 7rem;
+    height: 3rem;
+    background-color:#00ff00;
+    border-radius: 12rem;
+    left: 10rem;
+    border: none;
+    padding: 2px 2px;
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.contact{
+    background-color: pink;
+    
+}

@@ -1,0 +1,72 @@
+.contain{
+    background-color: rgb(141, 141, 252);
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.child{
+    background-color: white;
+    height: 650px;
+    width: 410px;
+    border-radius: 12px;
+}
+
+/*  */
+.contain .child h1{
+    position: relative;
+    left: 25%;
+    top: 5rem;
+    font-weight: 700;
+}
+
+.contain .in1{
+    position: relative;
+    top: 9rem;
+    width: 17rem;
+    height: 2.2rem;
+    left: 5rem;
+}
+
+.contain .in2{
+    position: relative;
+    top: 11rem;
+    width: 17rem;
+    height: 2.2rem;
+    left: 5rem;
+}
+
+.contain button{
+    position: relative;
+    top: 15rem;
+    width: 17rem;
+    height: 3.2rem;
+    left: 5rem;
+    background-color: rgb(46, 46, 253);
+    color: white;
+    border: none;
+}
+
+.contain h6{
+    position: relative;
+    top: 17rem;
+    left: 5.2rem;
+}
+.contain .child a{
+    color: blue;
+}
+
+
+/* flower */
+
+.contain .child img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 37%;
+    top: 3rem;
+}

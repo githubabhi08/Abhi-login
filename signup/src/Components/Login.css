@@ -1,0 +1,27 @@
+.boxed ul {
+    display: flex;
+    position: relative;
+    left: 47%;
+    gap: 2.7rem;
+  }
+  
+  .boxed ul li {
+    
+    list-style: none;
+    position: relative;
+  }
+  
+  .boxed ul li a {
+    text-decoration: none; 
+    color: blue;
+    font-weight: 700;
+    font-size: 27px;
+  }
+
+  .boxed ul .btn{
+    position: relative;
+    left: -1rem;
+    top: -2.2rem;
+  }
+
+  

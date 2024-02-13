@@ -1,0 +1,92 @@
+
+.services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0rem;
+    position: relative;
+    top: 8rem;
+    color: red;
+    font-size: 27px;
+    font-weight: 700;
+    
+}
+
+
+.images .img1{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 18rem;
+    left: 12rem;
+}
+
+.images .img2{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: -12rem;
+    left: 50rem;
+}
+
+
+
+.images #app{
+    position: relative;
+    top: 17rem;
+    left: 15rem;
+}
+
+.images #web{
+    position: relative;
+    top: -12.5rem;
+    left: 57rem;
+}
+
+/* 2nd line */
+
+.images .img3{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: -9rem;
+    left: 50rem;
+}
+
+.images .img4{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: -9rem;
+    left: 50rem;
+}
+
+.images .cyber{
+    position: relative;
+    top: -9rem;
+    left: 57rem;
+}
+
+/* 3red line */
+
+.images .img5{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: -65rem;
+    left: 12rem;
+}
+
+.images .img7{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: -64rem;
+    left: 12rem;
+}
+
+.images .mac{
+    position: relative;
+    top: -65rem;
+    left: 15rem;
+}
