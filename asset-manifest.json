@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Abhi-login/static/css/main.b88a34ec.css",
+    "main.js": "/Abhi-login/static/js/main.b7784aac.js",
+    "static/js/592.debdffab.chunk.js": "/Abhi-login/static/js/592.debdffab.chunk.js",
+    "static/media/web.png": "/Abhi-login/static/media/web.8652521e56477b1ff247.png",
+    "static/media/call.png": "/Abhi-login/static/media/call.5d115e00bedade20623b.png",
+    "static/media/macro.png": "/Abhi-login/static/media/macro.b679aba2f2454beb607e.png",
+    "static/media/flower.png": "/Abhi-login/static/media/flower.fa7d1f59443457c535dd.png",
+    "static/media/marketing.png": "/Abhi-login/static/media/marketing.27786fbca9bc6ac93044.png",
+    "static/media/machine.png": "/Abhi-login/static/media/machine.6a51d486f51af0907957.png",
+    "static/media/Android.png": "/Abhi-login/static/media/Android.c206c6929df57c014c5d.png",
+    "static/media/cyber.png": "/Abhi-login/static/media/cyber.a05dbb930d8eaa38254b.png",
+    "static/media/cloud.png": "/Abhi-login/static/media/cloud.3d30c6e3ad84db00f6d3.png",
+    "index.html": "/Abhi-login/index.html",
+    "main.b88a34ec.css.map": "/Abhi-login/static/css/main.b88a34ec.css.map",
+    "main.b7784aac.js.map": "/Abhi-login/static/js/main.b7784aac.js.map",
+    "592.debdffab.chunk.js.map": "/Abhi-login/static/js/592.debdffab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b88a34ec.css",
+    "static/js/main.b7784aac.js"
+  ]
+}
